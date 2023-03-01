@@ -20,3 +20,5 @@ class Calculator {
     return this.firstNum * this.secondNum;
   }
 }
+
+module.exports = Calculator;
